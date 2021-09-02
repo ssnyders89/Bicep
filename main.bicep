@@ -6,6 +6,7 @@ param locations array = [
 ]
 
 /*
+little hotfix.
 @secure()
 @description('The administrator login username for the SQL server.')
 param sqlServerAdministratorLogin string

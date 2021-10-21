@@ -9,7 +9,7 @@ param locations array = [
 @secure()
 @description('The administrator login username for the SQL server.')
 param sqlServerAdministratorLogin string
-
+test
 @secure()
 @description('The administrator login password for the SQL server.')
 param sqlServerAdministratorLoginPassword string
